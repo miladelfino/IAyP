@@ -1,4 +1,4 @@
-// DELFINO MILAGROS
+// COMPOSICION CONDICIONAL
 
 #include <stdio.h>
 int main()
