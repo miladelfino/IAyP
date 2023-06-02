@@ -1,3 +1,5 @@
+// COMPOSICION SECUENCIAL
+
 #include <stdio.h>
 
 float altoPared;
