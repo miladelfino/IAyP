@@ -1,4 +1,4 @@
-// DELFINO MILAGROS
+// COMPOSICION ITERATIVA
 
 #include <stdio.h>
 #include <string.h>
