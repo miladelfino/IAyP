@@ -1,6 +1,4 @@
-// DELFINO MILAGROS - COMISIÓN 1
-
-//EJERCICIO 11 PRACTICO 6
+//EJERCICIO 11 PRACTICO 6 -> punteros 
 
 #include <stdio.h>
 
