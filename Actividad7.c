@@ -1,4 +1,4 @@
-// DELFINO MILAGROS - Comision 1
+// ARREGLOS BIDIMENSIONALES
 
 #include <stdio.h>
 #include <stdbool.h>
