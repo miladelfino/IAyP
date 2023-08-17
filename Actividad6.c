@@ -1,5 +1,4 @@
-//DELFINO MILAGROS - Comision 1
-// 38885273
+//ARREGLOS UNIDIMENSIONALES
 
 #include <stdio.h>
 
