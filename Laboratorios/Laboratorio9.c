@@ -1,5 +1,4 @@
 // EJERCICIO 1 PRACTICO 9 -> ARREGLOS DE REGISTROS
-// DELFINO MILAGROS
 
 #include <stdio.h>
 #include <string.h>
