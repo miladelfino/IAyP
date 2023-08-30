@@ -1,4 +1,4 @@
-// DELFINO MILAGROS
+//PUNTEROS -> listas simplemente encadenadas
 
 #include <stdio.h>
 #include <stdlib.h>
