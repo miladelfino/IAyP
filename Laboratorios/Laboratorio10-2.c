@@ -1,4 +1,4 @@
-// DELFINO MILAGROS
+// LISTAS SIMPLEMENTE ENCADENADAS (LSE)
 
 #include <stdio.h>
 #include <stdlib.h>
