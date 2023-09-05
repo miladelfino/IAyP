@@ -1,4 +1,4 @@
-// DELFINO MILAGROS
+// LISTAS DOBLEMENTE ENCADENADAS (LDE)
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -79,7 +79,7 @@ int main(){
 
     MostrarLista(r);
 
-    //borramos el ultimo
+    //borramos el ultimo nodo
     t=p;
     (p->back)->next = NULL;
     p= p->back;
