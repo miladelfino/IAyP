@@ -1,5 +1,4 @@
-// EJERCICIO 4
-//DELFINO MILAGROS
+// EJERCICIO 4 - ARCHIVOS
 
 #include <stdio.h>
 
