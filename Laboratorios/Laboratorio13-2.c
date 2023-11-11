@@ -1,5 +1,4 @@
-//EJERCICIO 8
-//DELFINO MILAGROS
+//EJERCICIO 8 --> ARCHIVOS
 
 #include <stdio.h>
 #include <string.h>
