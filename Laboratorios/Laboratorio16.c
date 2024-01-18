@@ -1,4 +1,4 @@
-// DELFINO MILAGROS - Comision 3 - METODOS DE ORDENAMIENTO
+// METODOS DE ORDENAMIENTO
 
 #include <stdio.h>
 #define Max 50
