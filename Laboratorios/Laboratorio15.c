@@ -1,4 +1,4 @@
-// DELFINO MILAGROS COMISION 3
+// METODOS DE ORDENAMIENTO - BURBUJA
 
 #include <stdio.h>
 #include <stdlib.h>
